@@ -22,6 +22,7 @@ I saw the file test.sh and ran it by typing `bash test.sh` into the terminal.
 
 ### Step 7:
 Steps: I typed `vim ListExamples.java` into the terminal then hit `<enter>`. The I typed, in order, `<k><l><l><d><w><i><index2><Spacebar><esc><:wq>`. Those commands changed "index1" to "index2" then `:wq` saved the changes. 
+Each keystroke I used served a purpose in navigating or served some other useful purpose allowing me to complete the changes I needed to. Here is a full list of vimm commands with explanations included: [vim commands](https://vimm.rtorr.com/). To fins explanations of the ommand I used specifically, use ctrl F and type in the command you wish to see explained. Then hit enter and enjoy learning!
 
 ![Image](step7.jpg)
 
